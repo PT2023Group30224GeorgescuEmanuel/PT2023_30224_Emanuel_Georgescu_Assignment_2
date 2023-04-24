@@ -1,0 +1,85 @@
+Timp: 0
+Clienti in asteptare: (1,3,2)(2,8,3)(0,10,3)(3,13,2)
+Coada0:Inchis
+Coada1:Inchis
+
+Timp: 1
+Clienti in asteptare: (1,3,2)(2,8,3)(0,10,3)(3,13,2)
+Coada0:Inchis
+Coada1:Inchis
+
+Timp: 2
+Clienti in asteptare: (1,3,2)(2,8,3)(0,10,3)(3,13,2)
+Coada0:Inchis
+Coada1:Inchis
+
+Timp: 3
+Clienti in asteptare: (2,8,3)(0,10,3)(3,13,2)
+Coada0:[(1,3,2)]
+Coada1:Inchis
+
+Timp: 4
+Clienti in asteptare: (2,8,3)(0,10,3)(3,13,2)
+Coada0:[(1,3,1)]
+Coada1:Inchis
+
+Timp: 5
+Clienti in asteptare: (2,8,3)(0,10,3)(3,13,2)
+Coada0:Inchis
+Coada1:Inchis
+
+Timp: 6
+Clienti in asteptare: (2,8,3)(0,10,3)(3,13,2)
+Coada0:Inchis
+Coada1:Inchis
+
+Timp: 7
+Clienti in asteptare: (2,8,3)(0,10,3)(3,13,2)
+Coada0:Inchis
+Coada1:Inchis
+
+Timp: 8
+Clienti in asteptare: (0,10,3)(3,13,2)
+Coada0:[(2,8,3)]
+Coada1:Inchis
+
+Timp: 9
+Clienti in asteptare: (0,10,3)(3,13,2)
+Coada0:[(2,8,2)]
+Coada1:Inchis
+
+Timp: 10
+Clienti in asteptare: (3,13,2)
+Coada0:[(2,8,1)]
+Coada1:[(0,10,3)]
+
+Timp: 11
+Clienti in asteptare: (3,13,2)
+Coada0:Inchis
+Coada1:[(0,10,2)]
+
+Timp: 12
+Clienti in asteptare: (3,13,2)
+Coada0:Inchis
+Coada1:[(0,10,1)]
+
+Timp: 13
+Clienti in asteptare: 
+Coada0:[(3,13,2)]
+Coada1:Inchis
+
+Timp: 14
+Clienti in asteptare: 
+Coada0:[(3,13,1)]
+Coada1:Inchis
+
+Timp: 15
+Clienti in asteptare: 
+Coada0:Inchis
+Coada1:Inchis
+
+Timp: 16
+Clienti in asteptare: 
+Coada0:Inchis
+Coada1:Inchis
+Timp de asteptare mediu: 0.0
